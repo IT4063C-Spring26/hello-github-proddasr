@@ -4,13 +4,13 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 > If you're reading this in a text editor, you may notice the `- [ ]` and `- [x]` characters. These are used to create checkboxes in Markdown. You can use them to keep track of your progress through the assignment.
 
 ### Checkpoint 0: Create a GitHub Account and Install Git
-- [x] First, you need to sign up for a Free GitHub account on GitHub.com. 
+- [ ] First, you need to sign up for a Free GitHub account on GitHub.com. 
     - You don't need to create a new one for the class if you already have one, you're welcome to continue using your personal account
     - Your account username doesn't need to be your 6+2. Pick any professional username that you'd like.
       - Note: Your GitHub Profile and account is one of the artifacts you can use when applying for jobs and many employers may ask you to show your previous work as part of the interview process. So, professional usernames :)
     - Here's the official GitHub Docs on Signing up for a new GitHub account.
     - Optionally, Sign up for the GitHub Student Developer Pack. Not only does it offer you an upgraded Pro GitHub account for free, but it also comes with thousands of dollars worth of benefits and resources. You can learn more about the in the link provided. 
-- [x] Install git and GitHub Desktop
+- [ ] Install git and GitHub Desktop
   - Links to it is in the module on Canvas
   - If you install GitHub Desktop, it will also install Git for you.
 ### Checkpoint 1: Get the Starter Files on your Computer
@@ -18,7 +18,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
    - This step creates a repository for you on the class organization with the starter files the instructor has provided.
    - When the instructor creates the assignment on GitHub Classroom, they can configure the repository visibility setting: (public or private). Usually your assignments will be set to _private_ that way only you and the instructor can see your work.
    - > This assignment is set to _public_ so that you can see your classmates repositories and be able to collaborate with them. This is second part of the assignment (due next week).
-- [x] Clone the generated repository to your computer.
+- [ ] Clone the generated repository to your computer.
    - You can use GitHub Desktop, VS Code, or the command line to clone the repository.
   - If you don't know how you can do this, go back to the lecture videos for a demo of this process, or read ["Cloning a Repository"](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui) on GitHub Docs.
     - **Notice:** towards the top of the Docs page, you can switch the instructions depending on your environment (command line, GitHub Desktop, ...etc.) and operating system (Windows, Mac, Linux).
